@@ -4,6 +4,6 @@
 - 🙅🏿 Pronouns: She / her
 - :books: I study System Development Analysis at Impacta
 - 💻 I’m a front end developer
-- 😁 Software Engineer at Zé Delivery
+- 😁 Software Engineer at Itau Unibanco 
 - 🌱 I’m very interested in design
 
